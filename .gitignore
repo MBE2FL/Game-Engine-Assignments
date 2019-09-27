@@ -34,3 +34,35 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Files built by Visual Studio (For C++ DLL project)
+!/*Plugin/**/*.sln
+/*Plugin/**/*_i.c
+/*Plugin/**/*_p.c
+/*Plugin/**/*_h.h
+/*Plugin/**/*.ilk
+/*Plugin/**/*.meta
+/*Plugin/**/*.obj
+/*Plugin/**/*.iobj
+/*Plugin/**/*.pch
+/*Plugin/**/*.pdb
+/*Plugin/**/*.ipdb
+/*Plugin/**/*.pgc
+/*Plugin/**/*.pgd
+/*Plugin/**/*.rsp
+/*Plugin/**/*.sbr
+/*Plugin/**/*.tlb
+/*Plugin/**/*.tli
+/*Plugin/**/*.tlh
+/*Plugin/**/*.tmp
+/*Plugin/**/*.tmp_proj
+/*Plugin/**/*_wpftmp.csproj
+/*Plugin/**/*.log
+/*Plugin/**/*.vspscc
+/*Plugin/**/*.vssscc
+/*Plugin/**/.builds
+/*Plugin/**/*.pidb
+/*Plugin/**/*.svclog
+/*Plugin/**/*.scc
+/*Plugin/**/*.tlog
+/*Plugin/**/*.exp
